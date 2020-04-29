@@ -1,23 +1,15 @@
+##相关环境
+
+flutter --version
+Flutter 1.18.0-7.0.pre.24 • channel master • https://github.com/flutter/flutter.git
+Framework • revision f9c3c9094e (7 days ago) • 2020-04-22 04:43:01 -0400
+Engine • revision 8d7071ea46
+Tools • Dart 2.9.0 (build 2.9.0-2.0.dev 87b829bacd)
+
+
 # Flutter Music App
 
 First Open Source Flutter based dribbblel Design Music Player.
-
-#### logo
-
-<img src="screenshots/icon-1024.png" height="200em"/>
-
-
-#### free design
-
-http://www.freeuid.com/category/free
-
-#### material icons
-
-https://material.io/resources/icons/?search=d&style=baseline
-
-#### generate logo（android &ios）
-
-http://icon.wuruihong.com/
 
 ## Features(Android & iOS)
 
@@ -55,10 +47,6 @@ http://icon.wuruihong.com/
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 | ![](screenshots/Screenshot_27.png) | ![](screenshots/Screenshot_26.png) | ![](screenshots/Screenshot_28.png) |
 
-### Screenshots(Android)
-
-<img src="screenshots/image-20200301225614146.png" height="300em" /> <img src="screenshots/image-20200301225706637.png" height="300em" /> <img src="screenshots/image-20200301225726100.png" height="300em" /> <img src="screenshots/image-20200301225840952.png" height="300em" /> 
-
 
 
 ### Add this to ios Info.plist allow https and background
@@ -75,11 +63,7 @@ http://icon.wuruihong.com/
     </dict>
 ```
 
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of ☕️
 
-<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gcemhp0nxyj30e00e077o.jpg" height="200em" /> 
-
-# License
 
 ```
 Copyright 2020 obnil
@@ -99,13 +83,4 @@ limitations under the License.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
